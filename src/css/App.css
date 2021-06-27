@@ -1,0 +1,12 @@
+.App {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  height: 90vh;
+  background: rgb(228,212,72);
+  background: linear-gradient(175deg, rgba(228,212,72,1) 23%, rgba(241,234,171,1) 99%);
+font-family: 'Courier New', Courier, monospace;
+}
+.root {
+  display: flex;
+  flex-direction: column;
+}

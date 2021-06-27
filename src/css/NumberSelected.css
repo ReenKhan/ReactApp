@@ -1,0 +1,28 @@
+.numberSelected {
+  margin-top: 3%;
+  border-radius: 100%;
+  background: #333333;
+  box-shadow: 0 -2px 0 3px #1a1a1a inset, 0 5px 5px rgba(0, 0, 0, 0.17), 0 15px rgba(255, 255, 255, 0.32) inset;
+  cursor: pointer;
+  height: 45px;
+  width: 45px;
+}
+.Selected {
+  border: 5px solid #a95ce0;
+}
+
+.NotSelected {
+  border: 5px solid white;
+}
+
+
+/*for the number selection*/
+
+.display {
+  height: 100%;
+  width: 120%;
+  align-content: left;
+  justify-content: left;
+  padding-left: 10px;
+  float:left;
+}

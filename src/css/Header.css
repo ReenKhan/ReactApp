@@ -1,0 +1,13 @@
+.Header {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  height: 20vh;
+ background: rgb(184,114,234);
+background: linear-gradient(0deg, rgba(184,114,234,1) 41%, rgba(73,39,106,1) 90%);
+  color: black;
+  font-family: 'Sedgwick Ave Display';
+  font-size: 40px;
+  text-align: center;
+  align-items: center;
+}

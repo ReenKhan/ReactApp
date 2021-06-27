@@ -1,0 +1,36 @@
+.cashInput {
+  margin-top: 10%;
+  background: rgb(228,212,72);
+background: linear-gradient(175deg, rgba(228,212,72,1) 23%, rgba(241,234,171,1) 99%);
+  height: 100%;
+  width: 100%;
+  align-content: center;
+  justify-content: center;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+}
+
+.moneyButtons {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+button {
+  margin: 10px;
+  color:white;
+  border-radius: 10%;
+  background-color: #a95ce0;
+  background-image: linear-gradient(#a95ce0,#cd9cf0);
+  cursor: pointer;
+
+  width: 10%;
+}
+h5{
+  align-items: center;
+  flex-wrap: wrap;
+  padding-left: 15px;
+}
+
